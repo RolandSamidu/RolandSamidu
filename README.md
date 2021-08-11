@@ -11,7 +11,6 @@
     - C / C++ 
     - Python**
 - 👯 I’m looking to collaborate with other developers.
-- 
 - ⚡ Fun fact **I love to draw , play guitar and coding.**
 
 <h3 align="left">Connect with me:</h3>
