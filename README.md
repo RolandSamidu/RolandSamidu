@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **I try to learn everything. Particular attention has been paid to the following matters, 
     - JAVA 
-    - HTML, CSS, JS 
+    - MERN
     - C / C++ 
     - Python**
 - 👯 I’m looking to collaborate with other developers.
