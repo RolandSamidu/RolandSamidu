@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/rolandsamindu" target="blank"><img src="https://img.shields.io/twitter/follow/rolandsamindu?logo=twitter&style=for-the-badge" alt="rolandsamindu" /></a> </p>
 
-- 🌱 I’m currently learning **I try to learn everything. Particular attention has been paid to the following matters, 
+- 🌱 I’m currently learning. I try to learn everything. Particular attention has been paid to the following matters, 
     - JAVA 
     - MERN
     - C / C++ 
-    - Python**
+    - Python
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact **I love to draw , play guitar and coding.**
 
