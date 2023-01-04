@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rolandsamidu&label=Profile%20views&color=0e75b6&style=flat" alt="rolandsamidu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rolandsamindu" target="blank"><img src="https://img.shields.io/twitter/follow/rolandsamindu?logo=twitter&style=for-the-badge" alt="rolandsamindu" /></a> </p>
-
 - 🌱 I’m currently learning. I try to learn everything. Particular attention has been paid to the following matters, 
     - JAVA 
     - MERN
