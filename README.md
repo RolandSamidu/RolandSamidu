@@ -28,6 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RolandSamidu&show_icons=true&locale=en&layout=compact" alt="RolandSamidu" /></p>
 
-<br/>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rolandsamidu&" alt="rolandsamidu" /></p>
