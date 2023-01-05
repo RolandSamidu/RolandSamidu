@@ -23,7 +23,6 @@
 
 <h3>My Github Status</h3>
 <img src = "https://github-readme-stats.vercel.app/api?username=RolandSamidu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
-<a href="#"><img width="25%" height="25%" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" height="175px"/></a>
 
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rolandsamidu&show_icons=true&locale=en&layout=compact" alt="rolandsamidu" /></p>
