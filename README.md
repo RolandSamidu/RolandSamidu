@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dewantha. You can easily call me</h1>
+<h1 align="center">Hi 👋, I'm Dewantha. You can easily call me "Dew"</h1>
 <h3 align="center">A passionate Full-Stack Software developer from Sri Lanka...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rolandsamidu&label=Profile%20views&color=0e75b6&style=flat" alt="rolandsamidu" /> </p>
