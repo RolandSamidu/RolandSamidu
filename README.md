@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rsdew.appuhami99@gmail.com**
 
-- 📄 Know about my academic experiences [https://github.com/it20618186](https://github.com/it20618186) and from this account.
+- 📄 Know about my academic experiences [https://github.com/it20618186](https://github.com/it20618186) and Know about my other experiences and necessary knowledge from this GITHUB account.
 
 - ⚡ Fun fact **I think I am happy person.**
 
