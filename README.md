@@ -17,7 +17,7 @@
 
 - 📄 Know about my academic experiences [https://github.com/it20618186](https://github.com/it20618186) and Know about my other experiences and necessary knowledge from this GITHUB account.
 
-- ⚡ Fun fact **I think I am happy person.**
+- ⚡ Fun fact : **Experimenting to discover new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
