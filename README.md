@@ -19,8 +19,8 @@
 
 - ⚡ Fun fact **I think I am happy person.**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/dewantha a-a-a-r-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dewantha a-a-a-r-s" height="30" width="40" /></a>
 <a href="https://fb.com/roland samindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roland samindu" height="30" width="40" /></a>
 <a href="https://instagram.com/rolandsamindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rolandsamindu" height="30" width="40" /></a>
