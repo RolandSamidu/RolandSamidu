@@ -78,7 +78,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
 <h4 align="center">AI and ML</h4>
@@ -98,11 +98,5 @@
 &nbsp;
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rolandsamidu&show_icons=true&locale=en" alt="rolandsamidu" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rolandsamidu&show_icons=true&locale=en&layout=compact" alt="rolandsamidu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rolandsamidu&show_icons=true&locale=en" alt="rolandsamidu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rolandsamidu&" alt="rolandsamidu" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rolandsamidu" alt="rolandsamidu" /></a> </p>
