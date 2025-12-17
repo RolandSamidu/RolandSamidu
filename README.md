@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate with **other developers.**
 
-- 👨‍💻 All of my projects are available at [https://rolandsamidu.github.io/projects.html](https://rolandsamidu.github.io/projects.html)
+- 👨‍💻 All of my projects are available at [DewA3RS_Projects](https://portfolio-next-js-sand-nu.vercel.app/projects)
 
 - 📝 I regularly write articles on [https://rolandsamidu.github.io/](https://rolandsamidu.github.io/)
 
